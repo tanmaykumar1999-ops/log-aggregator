@@ -1,0 +1,1 @@
+Today I learnt about kafka's partition and reretition factor and consumer and producer. Also read and understood about gradle on high level.
