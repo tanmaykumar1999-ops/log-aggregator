@@ -1,0 +1,1 @@
+Building a high throughput log aggregator which can handle more than millions of requests per second with fail safe mechanism in place. This project I believe will help me explore more of current messaging and queuing system.
